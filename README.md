@@ -1,1 +1,1 @@
-This repository is designed for the SPE GCS Machine learning challenge.
+This repository is designed for the SPE GCS Machine learning challenge. The object of the challenge was to predict shear sonic log response (DTSM) for older wells based on a suite of other logs, including porosity, density, resistivity, caliper and gamma ray logs.
